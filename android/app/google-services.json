@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "630617228509",
+    "project_id": "myday-study-dev",
+    "storage_bucket": "myday-study-dev.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630617228509:android:a52c3a9d8b53857acfc734",
+        "android_client_info": {
+          "package_name": "com.myday.myday"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5lYJWC_2tjxNBi7UobZSUhYusYeQGjuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
